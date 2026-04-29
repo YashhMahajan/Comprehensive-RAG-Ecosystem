@@ -22,7 +22,7 @@ cohere
 # Evaluation frameworks
 deepeval>=3.9.7
 ragas
-# grouse-eval
+# grouse-eval (grouse will create problems with python versions)
 
 # Data processing and ML
 datasets>=4.8.4
