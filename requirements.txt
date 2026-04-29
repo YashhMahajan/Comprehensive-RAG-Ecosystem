@@ -1,0 +1,47 @@
+# Core LangChain packages
+langchain>=0.0.353
+langchain-community>=0.0.20
+langchain-openai>=0.0.6
+langchainhub>=0.1.21
+langchain-core>=0.1.23
+langchain-groq
+
+# Vector stores and embeddings
+chromadb>=1.5.8
+sentence-transformers>=5.4.1
+
+# Text processing and web scraping
+beautifulsoup4
+tiktoken>=0.12.0
+bs4
+
+# LLM providers and APIs
+openai>=1.109.1,<2.0.0
+cohere
+
+# Evaluation frameworks
+deepeval>=3.9.7
+ragas
+grouse-eval
+
+# Data processing and ML
+datasets>=4.8.4
+numpy>=1.26.4
+pandas>=2.3.3
+scikit-learn
+
+# YouTube and multimedia
+pytube
+youtube-transcript-api
+yt-dlp
+
+# Document processing and retrieval
+ragatouille
+python-dotenv>=1.2.2
+
+# Additional utilities
+requests>=2.33.1
+regex>=2022.1.18
+pydantic>=2.13.3
+typing-extensions>=4.15.0
+
