@@ -433,5 +433,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p>🚀 Production-Grade RAG Ecosystem</p>
   <p>⭐ Star this repo for advanced RAG implementations and techniques</p>
-  <p>📧 Contact: [Your Email] | 🐛 Issues: [GitHub Issues]</p>
+  <p>📧 Contact: [mahajanyash943@gmail.com] </p>
 </div>
