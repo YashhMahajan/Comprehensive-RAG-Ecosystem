@@ -1,6 +1,6 @@
 # 🚀 Comprehensive RAG Ecosystem
 
-> A production-grade, enterprise-ready Retrieval-Augmented Generation (RAG) system implementing advanced AI techniques with comprehensive evaluation frameworks and optimized performance.
+> A Comprehensive RAG ecosystem implementing 15+ advanced retrieval techniques achieving enterprise-grade accuracy. Features multi-query generation, RAG-Fusion with reciprocal rank fusion, hierarchical indexing (RAPTOR), HyDE hypothetical embeddings, and intelligent query routing. Integrates LangChain with LLM Cohere models, Chroma vector stores, and comprehensive evaluation frameworks (RAGAS, DeepEval) for end-to-end performance optimization.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-%23007ACC.svg?logo=LangChain)
